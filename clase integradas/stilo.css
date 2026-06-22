@@ -1,0 +1,19 @@
+
+
+
+
+body{
+    background-color: aqua;
+}
+.contenedor{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+}
+.tarjeta{
+    border-style: solid;
+    width: 150px;
+    text-align: center;
+    padding: 20px;
+}
